@@ -1,6 +1,6 @@
 # CLI To-Do List Application
 
-A simple command-line interface (CLI) to-do list application written in Go. This application allows you to manage your tasks efficiently using various commands.
+A  command-line interface (CLI) to-do list application written in Go. This application allows you to manage your tasks efficiently using various commands.
 
 ## Commands 
 
