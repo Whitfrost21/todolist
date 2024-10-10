@@ -4,10 +4,10 @@ A  command-line interface (CLI) to-do list application written in Go. This appli
 
 ## Commands 
 
-- add : tasks to your to-do list
-- delete : tasks from your list
-- mark : tasks as complete
-- list : all tasks
+- add : add tasks to your to-do list
+- delete : delete tasks from your list
+- mark : mark tasks as complete
+- list :  list all tasks
 - history : Load history of tasks
 - completion : Generate autocompletion scripts for your shell
 - trunc : Clear the to-do list
