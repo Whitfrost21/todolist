@@ -1,0 +1,3 @@
++{mancity true}
++{atk true}
++{boxing true}
