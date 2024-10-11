@@ -22,6 +22,7 @@ A  command-line interface (CLI) to-do list application written in Go. This appli
 2. Build the Application:
    
    ```bash
-   go build .```
+   go build .
+   ```
 
 
