@@ -1,6 +1,7 @@
 [
-{
-"title": "homework",
-"status": false
-}
+  {
+    "id": 1,
+    "title": "cloned todolist",
+    "status": false
+  }
 ]

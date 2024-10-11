@@ -22,9 +22,13 @@ var addCmd = &cobra.Command{
     byteval,_:=os.ReadFile("task.json")
     json.Unmarshal(byteval,&ts)
 
-    
+    nextid:=1
+    if len(ts)>0{
+      nextid=ts[len(ts)-1].Id
+    }
 
     container:=Task{
+      Id: nextid,
       Title:task,
       Status:false,
     } 

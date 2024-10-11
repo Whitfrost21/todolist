@@ -28,7 +28,7 @@ var listCmd = &cobra.Command{
     }
 
     for _,t:=range tasklist{
-      fmt.Println(t.Title," status:",t.Status)
+      fmt.Println(t.Id,".",t.Title," status:",t.Status)
     }
 
     

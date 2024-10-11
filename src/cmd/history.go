@@ -21,7 +21,7 @@ var histoCmd=&cobra.Command{
     scanner:=bufio.NewScanner(file)
     for scanner.Scan(){
         str:=scanner.Text()
-        str=strings.Trim(str,"+{}")
+        str=strings.Trim(str,".+{1234567890}")
         fmt.Println(str)
     }
     if scanner.Err();scanner.Err()!=nil{

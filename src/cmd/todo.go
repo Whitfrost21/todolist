@@ -1,6 +1,7 @@
 package cmd
 
-type Task struct{
-    Title string `json:"title"`
-    Status bool `json:"status"`
+type Task struct {
+	Id     int    `json:"id"`
+	Title  string `json:"title"`
+	Status bool   `json:"status"`
 }
