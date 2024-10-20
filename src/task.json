@@ -1,7 +1,12 @@
 [
-  {
-    "id": 1,
-    "title": "cloned todolist",
-    "status": false
-  }
+{
+"id": 1,
+"title": "play fortnite",
+"status": false
+},
+{
+"id": 2,
+"title": "watch tv",
+"status": false
+}
 ]
