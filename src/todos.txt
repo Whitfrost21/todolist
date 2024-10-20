@@ -1,7 +1,1 @@
-
-
-+{1 1 true}
-+{3 homework true}
-+{4 exercise true}
-+{3 watch tv true}
-+{1 do homework true}
+cloned todolist
