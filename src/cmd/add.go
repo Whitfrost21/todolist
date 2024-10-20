@@ -24,7 +24,7 @@ var addCmd = &cobra.Command{
 
     nextid:=1
     if len(ts)>0{
-      nextid=ts[len(ts)-1].Id
+      nextid=ts[len(ts)-1].Id+1
     }
 
     container:=Task{
