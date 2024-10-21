@@ -25,6 +25,17 @@ A  command-line interface (CLI) to-do list application written in Go. This appli
    go build .
    ```
 
+## todolist in action
+### add/mark
+![](https://raw.githubusercontent.com/Whitfrost21/todolist/main/assests/working.gif)
 
+### Delete
+![](https://raw.githubusercontent.com/Whitfrost21/todolist/main/assests/delete.gif)
+
+### History
+![](https://raw.githubusercontent.com/Whitfrost21/todolist/main/assests/history.gif)
+
+### help
+![](https://raw.githubusercontent.com/Whitfrost21/todolist/main/assests/todohelp.gif)
 
 
